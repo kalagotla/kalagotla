@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @kalagotla
-- 👀 I’m interested in all things Python, Data, and more...
-- 🌱 I’m always looking to learn new stuff
-- 💞️ I’m looking to collaborate on data related projects
+- 👋 Hi, I’m Dilip Kalagotla @kalagotla
 - 📫 Reach me at dilip.kalagotla@gmail.com
